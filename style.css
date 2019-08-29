@@ -1,0 +1,29 @@
+body {
+	background-image: url(background.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.jumbotron{
+	background-color: transparent;
+}
+h1 {
+	font-family: 'Cookie', cursive;
+	color: rgba(170, 170, 57, 0.9);
+	text-align: center;
+
+}
+
+.lead {
+	text-align: center;
+	color: silver;
+}
+
+.clear {
+	display: flex;
+	justify-content: center;
+	
+	transition-duration: 0.4s;
+
+}
